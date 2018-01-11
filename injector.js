@@ -239,6 +239,6 @@
         passengerDestionation: 'above',
         passengerColor: true,
         fineSpeedAdjustment: true,
-        autoRetry: true
+        autoRetry: false
     });
 })(self, $, riot);
